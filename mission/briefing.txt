@@ -1,8 +1,9 @@
-##################################################
    SECURINETS ENIT  ::  OPERATION GIT QUEST
-##################################################
 objective: master version control, leave no trace
            (except beautiful commits)
+<<<<<<< HEAD
 codename: 562
+>>>>>>> upstream/intel-update
 status:   STANDBY
-##################################################
+clearance: LEVEL-5
+
