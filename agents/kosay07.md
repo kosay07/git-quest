@@ -3,3 +3,4 @@
 agent: kosay07
 codename: 562
 passphrase: h1st0ry-n3v3r-f0rg3ts
+gadget: ndhaks1240
